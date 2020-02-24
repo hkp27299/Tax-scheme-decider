@@ -1,6 +1,6 @@
 # TaxCalculator
 
-- A flutter application to deside which tax scheme is better for you. 
+- A flutter application to decide which tax scheme is better for you. 
 
 ## How to use
 - Add gross income
